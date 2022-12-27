@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Urvashi Prajapati
-- 👀 I’m interested in developing module in magento2
-- 🌱 I’m currently learning Magento2
+- 👀 I had developed many module in magento2 and also done upgradation in M2
+- 🌱 I’m currently working as Magento2 Backend Developer
 
 <!---
 Urvashi50192/Urvashi50192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
